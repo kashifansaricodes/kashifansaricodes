@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Autonomous Ground Vehicle**
 
-- 👨‍💻 All of my projects are available at [kashifansari.us.to](kashifansari.us.to)
+- 👨‍💻 All of my projects are available at [kashifansari.us.to](kashifansaricodes.github.io)
 
 - 📫 How to reach me **kashif.ibha@gmail.com**
 
